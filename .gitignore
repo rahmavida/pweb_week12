@@ -1,0 +1,6 @@
+uploads/foto/*
+uploads/bukti/*
+!uploads/foto/.gitkeep
+!uploads/foto/.htaccess
+!uploads/bukti/.gitkeep
+!uploads/bukti/.htaccess
