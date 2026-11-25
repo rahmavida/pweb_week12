@@ -8,8 +8,6 @@ Untuk studi kasus manajemen kursus, saya membuat **BIMBINGKU**, aplikasi pendaft
 
 Foto membuat admin lebih mudah mencocokkan data dengan orangnya, sedangkan bukti bayar menjadi dasar verifikasi. Setelah status berubah menjadi **Diterima**, kartu member terbit dengan sendirinya. Kartu bisa dicetak atau disimpan sebagai PDF lewat dialog cetak browser.
 
-Source code: [GitHub](https://github.com/USERNAMEMU/NAMA-REPO)
-
 ---
 
 ## 1. Menyusun Alur Pendaftaran
